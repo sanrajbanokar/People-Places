@@ -18,10 +18,10 @@ const PLACES = [
     },
     {
         id: 'p2',
-        title: 'Empire State Building',
-        description: 'One of the most famous skyscraper',
-        imageUrl: 'https://a.cdn-hotels.com/gdcs/production176/d304/45e7e95a-6f5d-4f19-9479-1d3ddfee7e99.jpg',
-        address: '20 W 34th St., New York, NY 10001, USA',
+        title: 'Qutub Green Apartments',
+        description: 'My New Home',
+        imageUrl: 'https://content3.jdmagicbox.com/comp/delhi/b1/011pxx11.xx11.160525132505.d6b1/catalogue/qutub-green-apartments-mehrauli-delhi-hotels-fc92s7ftdn.jpg',
+        address: 'Qutub Green Apartments, Mehrauli',
         location: {
             lat: 28.518603,
             lng: 77.181656
