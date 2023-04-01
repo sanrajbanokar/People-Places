@@ -20,7 +20,7 @@ const PLACES = [
         id: 'p2',
         title: 'Qutub Green Apartments',
         description: 'My New Home',
-        imageUrl: 'https://content3.jdmagicbox.com/comp/delhi/b1/011pxx11.xx11.160525132505.d6b1/catalogue/qutub-green-apartments-mehrauli-delhi-hotels-fc92s7ftdn.jpg',
+        imageUrl: 'https://content.jdmagicbox.com/comp/delhi/b1/011pxx11.xx11.160525132505.d6b1/catalogue/qutub-green-apartments-mehrauli-delhi-hotels-rs-1001-to-rs-2000-1wnx46p.jpg',
         address: 'Qutub Green Apartments, Mehrauli',
         location: {
             lat: 28.518603,
