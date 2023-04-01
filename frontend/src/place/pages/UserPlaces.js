@@ -23,8 +23,8 @@ const PLACES = [
         imageUrl: 'https://a.cdn-hotels.com/gdcs/production176/d304/45e7e95a-6f5d-4f19-9479-1d3ddfee7e99.jpg',
         address: '20 W 34th St., New York, NY 10001, USA',
         location: {
-            lat: 40.7484405,
-            lng: -73.9878531
+            lat: 28.518603,
+            lng: 77.181656
         },
         creator: 'u2'
     },
