@@ -31,8 +31,8 @@
 
 .nav-links button {
   cursor: pointer;
-  border: 1px solid #292929;
-  color: #292929;
+  border: 1px solid #ffffff;
+  color: #ffffff;
   background: transparent;
   padding: 0.5rem;
   font: inherit;
@@ -71,6 +71,6 @@
   .nav-links button:hover,
   .nav-links button:active {
     background: #f8df00;
-    color: #292929;
+    color: #ffffff;
   }
 }
